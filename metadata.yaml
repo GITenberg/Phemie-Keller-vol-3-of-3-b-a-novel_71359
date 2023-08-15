@@ -1,11 +1,16 @@
 _repo: Phemie-Keller-vol-3-of-3-b-a-novel_71359
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71359-h/images/cover.jpg
 creator:
   author:
     agent_name: Trafford, F.G.
     gutenberg_agent_id: '56190'
     url: http://www.gutenberg.org/2009/agents/56190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71359#Phemie-Keller-vol-3-of-3-b-a-novel
 gutenberg_issued: '2023-08-06'
 identifiers:
   gutenberg: '71359'
